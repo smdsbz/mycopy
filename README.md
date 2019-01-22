@@ -20,7 +20,7 @@ make build_only
 
 - For other, see `mycopy -h`.  
 
-    ```txt
+    ```console
     $ ./mycopy -h
     Usage: PROG_NAME SOURCE_PATH [TARGET_PATH]
     ```
