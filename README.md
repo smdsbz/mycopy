@@ -24,4 +24,7 @@ make build_only
     $ ./mycopy -h
     Usage: PROG_NAME SOURCE_PATH [TARGET_PATH]
     ```
+## TODO
+
+- [ ] Add a progress bar.  
 
